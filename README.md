@@ -1,4 +1,4 @@
-##Relax with this RESTful Lab
+## Relax with this RESTful Lab
 
-####Objectives
+#### Objectives
 Get more practice creating JSON APIs!
