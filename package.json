@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/LillianChernin/jan-4th-restful-lab/issues"
   },
-  "homepage": "https://github.com/LillianChernin/jan-4th-restful-lab#readme"
+  "homepage": "https://github.com/LillianChernin/jan-4th-restful-lab#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
